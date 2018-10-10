@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "antiope.png"
+  },
+  {
+    "id": 2,
+    "image": "aquaman.png"    
+  },
+  {
+    "id": 3,
+    "image": "ares.png"
+  },
+  {
+    "id": 4,
+    "image": "batman.png" 
+  },
+  {
+    "id": 5,
+    "image": "cyborg.png"
+  },
+  {
+    "id": 6,
+    "image": "jllogo.png"
+  },
+  {
+    "id": 7,
+    "image": "justiceleague.png"
+  },
+  {
+    "id": 8,
+    "image": "justiceleague1.png"
+  },
+  {
+    "id": 9,
+    "image": "mera.png"
+  },
+  {
+    "id": 10,
+    "image": "steppenwolf.png"
+  },
+  {
+    "id": 11,
+    "image": "superman.png"
+  },
+  {
+    "id": 12,
+    "image": "wonderwoman.png"
+  }
+]

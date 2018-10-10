@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300');
+
+* {
+	position: relative;
+    font-family: 'Sunflower', sans-serif;
+}
+
+.navbar li {
+	display: inline-block;
+	text-align: center;
+}
+
+.itemLeft {
+	width: 30%;
+}
+
+.itemCenter {
+	width: 50%;
+}
+
+.itemRight {
+	width: 20%;
+}
+
+.navbar {
+	background: rgb(148, 7, 38);
+	box-shadow: 0 3px 6px #0C0A0B, 0 3px 6px #0C0A0B;
+	top: -20px;
+}
+
+li {
+	color: white;
+	font-weight: bold;
+	padding: 20px 0;
+}
+
+body {	
+	font-size: 1.8rem;
+	margin: 0 auto;	
+  background-color: #611457;
+  background-blend-mode: multiply;
+  background-size: 100% auto;
+}

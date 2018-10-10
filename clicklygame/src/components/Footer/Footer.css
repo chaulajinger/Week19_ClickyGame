@@ -1,0 +1,13 @@
+.footer {
+	background-color: rgba(122, 9, 6, 0.911);
+	width: 100%;
+	position: relative;
+	bottom: -20px;
+}
+
+.footer p {
+	color: white;
+	text-align: center;
+	padding: 15px 0;
+	font-size: 18px;
+}
